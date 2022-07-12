@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MouadhAouitiDev
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Laravel PHP Framework
-- 💞️ I’m looking to collaborate ....
-- 📫 How to reach me ...
+- 🌱 I’m PHP Developer ( WordPress - symfony  )
+
 
 <!---
 MouadhAouitiDev/MouadhAouitiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
